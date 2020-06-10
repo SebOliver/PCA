@@ -1,10 +1,17 @@
 The folders in this file are those discussed in the paper:
 "Principal Component Analysis and Radiative Transfer modelling of Spitzer
-IRS Spectra of Ultra Luminous Infrared Galaxies " Hurley et al. 2012
+IRS Spectra of Ultra Luminous Infrared Galaxies 
+
+ Hurley, P D, Oliver, S, Farrah, D, Wang, L and Efstathiou, A (2012) Principal component analysis and radiative transfer modelling of Spitzer Infrared Spectrograph spectra of ultraluminous infrared galaxies. Monthly Notices of the Royal Astronomical Society, 424 (3). pp. 2069-2078. ISSN 0035-8711 
+
+Official URL: http://dx.doi.org/10.1111/j.1365-2966.2012.21352.x
+
+Also http://sro.sussex.ac.uk/id/eprint/44487/
+
 
 The meanspectra and 5PCs can be found in PCs.dat
 The average spectra from the classified objects are in 'Average_spectra.dat'
-The IDL code for calculating PC contributions and classfication can be found in PCs_code.pro (requires GMM.sav and PCs.dat)
+The IDL code for calculating PC contributions and classification can be found in PCs_code.pro (requires GMM.sav and PCs.dat)
 
 If you use any of the files for your work, please cite the above paper.
-If you have any questions then please email P.D.Hurley@sussex.ac.uk
+If you have any questions then please email S.Oliver@sussex.ac.uk
